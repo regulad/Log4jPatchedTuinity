@@ -69,7 +69,7 @@ paperweight {
 
 tasks.paperclipJar {
     destinationDirectory.set(rootProject.layout.projectDirectory)
-    archiveFileName.set("tuinity-paperclip.jar")
+    archiveFileName.set("log4j-tuinity-paperclip.jar")
 }
 
 tasks.withType<SimpleRebuildGitPatches> {

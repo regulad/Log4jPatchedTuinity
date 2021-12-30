@@ -12,6 +12,8 @@
     </a>
 </div>
 
+This is a fork of Tuinity that aims to probide security by updating to the latest patched Log4j version. This should not be used on production. For development purposes only.
+
 ## How To (Server Admins)
 Tuinity uses the same paperclip jar system that Paper uses.
 

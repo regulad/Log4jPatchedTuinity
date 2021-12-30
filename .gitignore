@@ -50,6 +50,6 @@ mc-dev
 .idea
 testserver
 run
-tuinity-paperclip.jar
+log4j-tuinity-paperclip.jar
 
 !gradle/wrapper/gradle-wrapper.jar
