@@ -35,4 +35,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Tuinity-JDK${{ matrix.java }}
-        path: tuinity-paperclip.jar
+        path: log4j-tuinity-paperclip.jar
